@@ -437,6 +437,6 @@ All tests passed.
 
 ## Author
 
-**AVIP Cybersecurity Internship Project**
+**B.Y.T.E Cybersecurity Internship Project**
 
 **Task 2 – Password Strength Checker**
